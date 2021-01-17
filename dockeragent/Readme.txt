@@ -1,0 +1,1 @@
+ C:\Projects\Jenkin\dockeragent> docker build -t patelinbox/dockeragent -f Dockerfile .
